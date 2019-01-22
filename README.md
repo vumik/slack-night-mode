@@ -1,6 +1,8 @@
 # Slack Night Mode
 A user style for easy Slack theming. [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
+![Black Screenshot](https://userstyles.org/style_screenshots/117475_after.png)
+
 
 ## Usage
 
@@ -25,6 +27,9 @@ $.ajax({
 });
 ```
 
+That's it! Restart Slack and see how well it works.
+
+**Important**: You'll have to do this every time Slack updates.
 
 
 ### Browser
